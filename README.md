@@ -5,6 +5,7 @@
 マウスで周波数を指定する
 
 ## demo
+https://user-images.githubusercontent.com/53135734/62426592-ac0f5300-b721-11e9-88e2-5aea78151976.png
 
 
 ## site
